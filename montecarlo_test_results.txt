@@ -8,6 +8,6 @@ test_7_jackpot (__main__.MonteCarloTestSuite) ... ok
 test_test (__main__.MonteCarloTestSuite) ... ok
 
 ----------------------------------------------------------------------
-Ran 8 tests in 0.082s
+Ran 8 tests in 0.068s
 
 OK
