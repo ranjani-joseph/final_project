@@ -6,7 +6,7 @@ Project: Monte Carlo Simulator
 Synopsis
 
 Importing and Installing:
-The package is available in GIT: https://github.com/ranjani-joseph/DS5100-2022-08-nyc2xu.git in the folder 'Project'
+The package is available in GIT: https://github.com/ranjani-joseph/final_project.git
 Download the folder to the desired location and use following command to install the package:
 !pip install -e .
 
