@@ -1,0 +1,9 @@
+Metadata-Version: 1.0
+Name: pkg-mc
+Version: 0.1
+Summary: mc modules and tests
+Home-page: https://github.com/ranjani-joseph/pkg-mc.git
+Author: Sivaranjani Kandasami
+Author-email: nyc2xu@virginia.edu
+License: MIT
+Description: Montecarlo Modules
